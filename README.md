@@ -23,7 +23,7 @@ Before running the project, make sure you have the following prerequisites insta
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/mnist-cnn.git
+   git clone https://github.com/heib6xinyu/Mnist_Model_with_High_Noise_Level.git
    ```
 
 2. Change to the project directory:
